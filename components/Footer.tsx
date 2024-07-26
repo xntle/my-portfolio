@@ -17,14 +17,14 @@ const Footer = () => {
 
       <div className="flex flex-col items-center">
         <h1 className="heading lg:max-w-[45vw]">
-          Let's create something <span className="text-purple">great</span>
+          Let&apos;s create something <span className="text-purple">great</span>
         </h1>
         <p className="text-white-200 md:mt-10 my-5 text-center">
           Reach out to me! 
         </p>
         <a href="mailto:thaianle.work@gmail.com">
           <MagicButton
-            title="Let's get in touch"
+            title="Let&apos;s get in touch"
             icon={<FaLocationArrow />}
             position="right"
           />

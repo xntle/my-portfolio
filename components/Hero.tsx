@@ -54,7 +54,7 @@ const Hero = () => {
            *  change md:text-6xl, add more responsive code
            */}
           <TextGenerateEffect
-            words="Hi, I&apos;m Thai An! I'm currently a senior studying computer science at UC Davis"
+            words="Hi, I&apos;m Thai An! I&apos;m currently a senior studying computer science at UC Davis"
             className="text-center text-[40px] md:text-5xl lg:text-6xl"
           />
 
