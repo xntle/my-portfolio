@@ -12,6 +12,7 @@ const Experience = () => {
 
       <div className="w-full mt-12 grid lg:grid-cols-4 grid-cols-1 gap-10">
         {workExperience.map((card) => (
+          <a href="card.link">
           <Button
             key={card.id}
             //   random duration will be fun , I think , may be not
@@ -48,6 +49,7 @@ const Experience = () => {
               </div>
             </div>
           </Button>
+          </a>
         ))}
       </div>
     </div>
