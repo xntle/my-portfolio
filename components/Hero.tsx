@@ -62,7 +62,7 @@ const Hero = () => {
             I may not have all the right answers, but I have the right questions
           </p>
 
-          <a href="https://drive.google.com/file/d/1P3pVBWiY2XXwMlXVaMPX17-jgeW2ZWrv/view?usp=sharing" target="_blank" rel="noopener noreferrer">
+          <a href="https://drive.google.com/file/d/1I3INkFXLVMm6GgUzfyr0bfyjebOKbqvf/view?usp=sharing" target="_blank" rel="noopener noreferrer">
             <MagicButton
               title="View My Resume"
               icon={<FaLocationArrow />}
