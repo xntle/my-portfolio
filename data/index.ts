@@ -79,11 +79,11 @@ export const projects = [
   },
   {
     id: 2,
-    title: "Headstarter incoming ai app",
-    des: "be ready ;) me and my teammates are locked in",
-    img: "/p2.svg",
+    title: "RizzGPT",
+    des: "smooth ai generated comebacks to text messages utilizing OpenAI API and RAG for a more engaging conversation",
+    img: "/rizzgpt.png",
     iconLists: ["/next.svg", "/tail.svg", "/ts.svg", "/stream.svg", "/c.svg"],
-    link: "/ui.yoom.com",
+    link: "https://rizzgpt.xntle.com/auth",
   },
   {
     id: 3,
@@ -203,7 +203,6 @@ export const workExperience = [
     thumbnail: "/apcs2.svg",
     time: "June 2021 - May 2022",
   },
-
 ];
 
 export const socialMedia = [
